@@ -6,7 +6,7 @@
 <!-- ==================== TYPING ANIMATION ==================== -->
 <div align="center">
   <a href="https://github.com/rkmaurya1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&height=60&lines=Hi+%F0%9F%91%8B+I'm+Ravikant+Maurya;Flutter+Developer+%F0%9F%92%99;2%2B+Years+Building+Cross-Platform+Apps;Dart+%7C+Firebase+%7C+Riverpod+%7C+REST+APIs;Clean+Architecture+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&height=60&lines=Hi+%F0%9F%91%8B+I'm+Ravikant+Maurya;Flutter+Developer+%F0%9F%92%99;2%2B+Years+Building+Cross-Platform+Apps;Dart+%7C+Firebase+%7C+Riverpod+%7C+REST+APIs;Next.js+%2B+Tailwind+for+Web+%F0%9F%8C%90;Clean+Architecture+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -61,6 +61,7 @@ class RavikantMaurya extends FlutterDeveloper {
 - 🔌 Comfortable with **REST APIs**, **Dio**, **Retrofit**, **Firebase Auth** and **FCM**.
 - 🧠 State management with **Riverpod** and **Provider**; local storage with **Hive** & **Shared Preferences**.
 - 🎨 I turn **Figma** designs into **pixel-perfect, responsive** UI.
+- 🌐 Flutter is my main focus — alongside it I also build **responsive websites** with **Next.js + Tailwind CSS**.
 - 🎓 Currently pursuing **BCA** at *Mahatma Gandhi Kashi Vidyapith* (2023 – 2026).
 - 📫 Reach me at **ravikantmaurya200@gmail.com**
 
@@ -74,6 +75,10 @@ class RavikantMaurya extends FlutterDeveloper {
 ### 💻 Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="60" alt="languages" />
+
+### 🌐 Web (Secondary)
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css,vercel&theme=dark" height="60" alt="web" />
 
 ### 🧰 Tools & Platforms
 
@@ -90,6 +95,16 @@ class RavikantMaurya extends FlutterDeveloper {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="vscode" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="45" alt="android" />
+
+<br/><br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" alt="react" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="tailwindcss" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="javascript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45" alt="html5" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="css3" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="45" alt="vercel" />
 
 </div>
 
@@ -119,6 +134,16 @@ class RavikantMaurya extends FlutterDeveloper {
 ![Hive](https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=hive&logoColor=black)
 ![Shared Preferences](https://img.shields.io/badge/Shared%20Preferences-6DB33F?style=for-the-badge&logo=databricks&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6C3483?style=for-the-badge&logo=buildkite&logoColor=white)
+
+**Web (Secondary)**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Tools**
 
@@ -156,6 +181,17 @@ class RavikantMaurya extends FlutterDeveloper {
 | **📖 Children Storytelling App** | **Multilingual** storytelling application that delivers stories to children in more than one language. | `Flutter` `Dart` `Firebase` |
 | **🏠 Home Service Booking App** | Flutter application for browsing and **booking home services** with a smooth, responsive booking flow. | `Flutter` `Dart` `REST APIs` |
 | **🔳 QR Code Generator & Scanner** | Flutter utility app to **generate** and **scan** QR codes quickly. | `Flutter` `Dart` |
+
+</div>
+
+### 🌐 Web Projects
+
+<div align="center">
+
+| 🌍 Website | 📝 Description | 🧰 Stack | 🔗 Live |
+|:---|:---|:---|:---:|
+| **🚕 Aadarsh Travels** <br/> ![Client Work](https://img.shields.io/badge/Client%20Work-2EA043?style=flat-square) | Website for a **24/7 cab & taxi service in Varanasi** — responsive layout, service and booking-enquiry sections, built for real customers. | `Next.js` `React` `Tailwind` `Vercel` | [![Live](https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aadarshcartrevals.com/) |
+| **🧩 Website Templates** <br/> ![Personal](https://img.shields.io/badge/Personal-42A5F5?style=flat-square) | My own collection of **ready-to-deliver responsive website templates** for clients, with a live preview gallery. | `Next.js` `React` `Tailwind` `Vercel` | [![Live](https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://website-tempalte.vercel.app/#templates) |
 
 </div>
 
