@@ -13,11 +13,13 @@
 <!-- ==================== PROFILE BANNER / BADGES ==================== -->
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rkmaurya1&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/rkmaurya1)
-[![GitHub followers](https://img.shields.io/github/followers/rkmaurya1?label=Followers&style=for-the-badge&color=blue)](https://github.com/rkmaurya1?tab=followers)
-[![Location](https://img.shields.io/badge/Varanasi,%20India-%23E4405F.svg?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Varanasi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikant-maurya-b06671309/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikantmaurya200@gmail.com)
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Varanasi,%20India-1F2937?style=for-the-badge&labelColor=1F2937&color=E4405F)](https://www.google.com/maps/place/Varanasi)
+[![Role](https://img.shields.io/badge/%F0%9F%92%BC%20Flutter%20Developer-1F2937?style=for-the-badge&labelColor=1F2937&color=02569B)](https://github.com/rkmaurya1)
+[![Open to Opportunities](https://img.shields.io/badge/%F0%9F%9A%80%20Open%20to%20Opportunities-1F2937?style=for-the-badge&labelColor=1F2937&color=2EA043)](mailto:ravikantmaurya200@gmail.com)
+
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikantmaurya200@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikant-maurya-b06671309/)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkmaurya1)
 
 </div>
 
@@ -276,6 +278,9 @@ class RavikantMaurya extends FlutterDeveloper {
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile! Have a great day ⭐
+
+[![Profile Views](https://komarev.com/ghpvc/?username=rkmaurya1&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/rkmaurya1)
+[![GitHub followers](https://img.shields.io/github/followers/rkmaurya1?label=Followers&style=flat-square&color=0e75b6)](https://github.com/rkmaurya1?tab=followers)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer&text=Keep%20Fluttering%20%F0%9F%92%99&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
 
