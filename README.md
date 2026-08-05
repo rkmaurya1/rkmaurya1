@@ -19,7 +19,7 @@
 
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikantmaurya200@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikant-maurya-b06671309/)
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkmaurya1)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikant-maurya-b06671309/)
 
 </div>
 
